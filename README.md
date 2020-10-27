@@ -66,6 +66,7 @@ Before you can build the project, you need to specify a set of target platforms.
 
 ```
 $ cordova platform add android --save
+$ cordova platform add browser --save
 ```
 
 ### 4. Add Plugins
@@ -85,7 +86,7 @@ $ npm run build
 $ cordova build android
 ```
 
-### 6. Test the App on an iOS Device with Xcode
+### 6. Test the App on an Android Device with Android Studio
 
 * Using the command
 

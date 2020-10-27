@@ -6,7 +6,7 @@ Mi Contabilidad: An easy app that manage your day to day expenses.
 ## Requirements
 
 * cordova `^10.0.0`
-* cordova `^6.7.0`
+* gradle `^6.7.0`
 
 To build and run apps, you need to install SDKs for each platform you wish to target.  
 To check if you satisfy requirements for building the platform:
